@@ -1,0 +1,17 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+hr {
+    height: 5px;
+    
+}
+
+h1 {
+    padding-left: 100px;
+}
