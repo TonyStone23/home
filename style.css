@@ -1,6 +1,6 @@
 html {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 10px;
+    padding: 30px
 }
 
 body {
@@ -9,9 +9,19 @@ body {
 
 hr {
     height: 5px;
-    
+    background-color: black;
+    border: None;  
 }
 
-h1 {
-    padding-left: 100px;
+hr.top {
+    float: left;
+    width: 300px;
+}
+
+.Me {
+    border: 5px solid black;
+    width: 100px;
+    height: auto;
+    margin-right: 2px;
+    float: right;
 }
